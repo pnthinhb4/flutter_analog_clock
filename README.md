@@ -4,7 +4,7 @@
 - We design a nice clean analog clock app UI by using flutter. Our clock supports both the Dark and Light theme. If you want to learn how to use both Light and Dark theme then it helps a lot.
 
 ## How I can run it?
-- 🚀 Clone this repo
+- 🚀 Clone this repository
 - 🚀 Run below code in terminal of project
 ```terminal
 flutter pub get
